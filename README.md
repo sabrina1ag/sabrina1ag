@@ -4,6 +4,15 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sabrina.agrane1@gmail.com)](mailto:sabrina.agrane1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sabrina-agrane/)
 
+![Giphy Image](https://raw.githubusercontent.com/sabrina1ag/sabrina1ag/main/sabrina1ag/sabrina1ag/giphy.webp)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sabrina.agrane1@gmail.com)](mailto:sabrina.agrane1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sabrina-agrane/)
+
+
+![i](https://raw.githubusercontent.com/username/my-repo/main/sabrina1ag/giphy.webp)
+
+
 <h3 align="center">A Computer Science Student Passionate About AI.</h3>
 
 - 🌱 I’m currently learning **Xml and web scrapping**
