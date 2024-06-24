@@ -1,4 +1,4 @@
-<h1 align="center">HEY THERE 👋, I'm Sabrina</h1>
+<h1 align="center">HI👋, I'm Sabrina</h1>
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="GIF" src="https://github.com/sabrina1ag/sabrina1ag/blob/main/giphy.webp" width="370" height="235" /> 
