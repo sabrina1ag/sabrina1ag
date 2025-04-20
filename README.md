@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sabrina.agrane1@gmail.com)](mailto:sabrina.agrane1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sabrina-agrane/)
 
-<h3 align="center">Im A Computer Science Student</h3>
+<h3 align="center">Im a Computer Science Student</h3>
 
 - 🌱 I’m currently learning **Azure and Microsoft Entra ID**
 
