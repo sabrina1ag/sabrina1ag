@@ -19,7 +19,7 @@
 
 <h3 align="left">Lets add each other on Tryhackme  !</h3>
 <p align="left">
-<a href="https://tryhackme.com/p/Sabrina.ag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Tryhackme.svg" alt="sabrinaag" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/Sabrina.ag" target="blank"><img align="center" src="tryhackme_logo_icon_249349.png" alt="sabrinaag" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools :</h3>
