@@ -1,4 +1,4 @@
-<h1 align="center">HI👋, I'm Sabrina</h1>
+<h1 align="center">YOOOO, I'm Sabrina</h1>
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="GIF" src="https://github.com/sabrina1ag/sabrina1ag/blob/main/giphy.webp" width="370" height="235" /> 
@@ -9,18 +9,17 @@
 
 <h3 align="center">Im A Computer Science Student</h3>
 
-- 🌱 I’m currently learning **Xml and web scrapping**
+- 🌱 I’m currently learning **Azure and Microsoft Entra ID**
 
-- 🤝 I’m looking for **An awesome internship** to spice up my third year of bachelor's studies!
+- 🤝 Im really active on **tryhackme** i try to never loose my streak !
 
-- 📝 I regularly read and write articles on [Medium](Medium), check my profil :
- <a href="https://medium.com/@binoulll3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@binoulll3" height="30" width="40" /></a>
+- 📝 
 
-- 💬 Ask me about **python, data visualisation** Im Happy to Help! 
+- 💬 Ask me about **SOC, ISO** Im Happy to Help! 
 
-<h3 align="left">Lets collaborate on Kaggle !</h3>
+<h3 align="left">Lets add each other on Tryhackme  !</h3>
 <p align="left">
-<a href="https://kaggle.com/sabrinaag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sabrinaag" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/Sabrina.ag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sabrinaag" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools :</h3>
