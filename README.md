@@ -15,7 +15,7 @@
 
 - 📝 
 
-- 💬 Ask me about **SOC, ISO** Im Happy to Help! 
+- 💬 Ask me about **SOC** Im Happy to Help! 
 
 <h3 align="left">Lets add each other on Tryhackme  !</h3>
 <p align="left">
