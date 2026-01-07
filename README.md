@@ -9,13 +9,11 @@
 
 <h3 align="center">Im a Computer Science Student</h3>
 
-- 🌱 I’m currently learning **Azure and Microsoft Entra ID**
+- 🌱 I’m currently learning **Vulnerabilities on Containers**
 
 - 🤝 Im really active on **tryhackme** i try to never loose my streak !
 
-- 📝 
-
-- 💬 Ask me about **SOC** Im Happy to Help! 
+- 💬 Ask me about **Cybersecurity Architecture** Im Happy to Help! 
 
 <h3 align="left">Lets add each other on Tryhackme  !</h3>
 <p align="left">
