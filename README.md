@@ -1,6 +1,6 @@
 <h1 align="center">YOOOO, I'm Pinky</h1>
 
-<h3 align="left">Connect with me:</h3>
+
 <img align="right" alt="GIF" src="https://github.com/pinky1matcha/pinky1matcha/blob/main/giphy.webp" width="370" height="235" /> 
 
 
